@@ -22,6 +22,6 @@ I set up a Microsoft Sentinel SIEM and a virtual machine in Microsoft Azure conf
 
 ![Screenshot 2024-12-27 at 5 15 56 PM](https://github.com/user-attachments/assets/bad64943-757e-4edf-b14b-e3333bb7da36)
 
-##Attacks Mapped
+## Attacks Mapped
 ---
 ![Screenshot 2024-12-27 at 3 18 17 PM](https://github.com/user-attachments/assets/34023505-034c-45d3-ab2b-4a9b548210e8)
