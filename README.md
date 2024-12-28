@@ -20,7 +20,7 @@ I set up a Microsoft Sentinel SIEM and a virtual machine in Microsoft Azure conf
  
 ## PowerShell script running
 
-![Screenshot 2024-12-27 at 5 15 56 PM](https://github.com/user-attachments/assets/bad64943-757e-4edf-b14b-e3333bb7da36)
+![Screenshot 2024-12-27 at 6 14 03 PM](https://github.com/user-attachments/assets/05b27571-c1d5-468a-a413-627598420478)
 
 ## Attacks Mapped
 
